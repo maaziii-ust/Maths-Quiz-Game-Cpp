@@ -41,19 +41,19 @@ Maths Quiz Game is a console-based educational game developed in C++. The game c
 
 ### Level 2
 
-![Correct Answer](screenshots/Level2.png)
+![Level 2](screenshots/Level2.png)
 
 ### Level 3
 
-![Wrong Answer](screenshots/Level3.png)
+![Level 3](screenshots/Level3.png)
 
 ### Level 4
 
-![Level Passed](screenshots/Level4.png)
+![Level 4](screenshots/Level4.png)
 
 ### Level 5
 
-![Level Passed](screenshots/Level5.png)
+![Level 5](screenshots/Level5.png)
 
 ### Game Over
 
